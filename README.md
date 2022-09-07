@@ -1,1 +1,2 @@
-# ASTR633
+# ASTR633: Techniques
+
